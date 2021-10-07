@@ -1,4 +1,4 @@
-# Wizz-Wozz
+# Wizz Wozz
 
 ##### FIRST NAME: La'Tonia Mertica
 ###### note_1: pronounced *luh tone yuh merr treece*
