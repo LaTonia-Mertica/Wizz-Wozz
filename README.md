@@ -1,4 +1,5 @@
 # Wizz Wozz
+*solid sprint for while loop with if else blocks and the modulus operator aka the modulo operation ... simple while powerful code*
 
 ##### FIRST NAME: La'Tonia Mertica
 ###### note_1: pronounced *luh tone yuh merr treece*
